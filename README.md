@@ -14,14 +14,14 @@ The purpose of this file is to provide basic overview, setup, usage and other in
 
 | | |
 -- | --
-**Title** |
+**Title** | Android
 **Url** |
 **Released** |
 **Authors** |
 **Publishers** |
 **Catalogues** |
-**Discipline** |
-**Subjects** |
+**Discipline** | Software Development
+**Subjects** | Android
 
 ### Project Structure
 This section defines the general project's structure and provides a top-level file/directory layout. Some items may not be present in the actual project or listed here depending on the specific user's configuration and current project state.
